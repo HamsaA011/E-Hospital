@@ -1,0 +1,1 @@
+E-Hospital Management System mainly aims at recording the patients details, getting the diagnosis information, history of the patient and also helps to calculate the total bill of the patients. This application is a e-portal to maintain and input the records of the outgoing and incoming patients.
